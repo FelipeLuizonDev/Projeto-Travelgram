@@ -71,7 +71,8 @@ Conceitos aplicados no design:
 ## 🚀 Como Executar o Projeto
 
 1. Baixe ou clone o repositório:
-  ```bash
-  git clone https://github.com/FelipeLuizonDev/Projeto-Travelgram
+   ```bash
+   git clone https://github.com/FelipeLuizonDev/Projeto-Travelgram
 
-2. Abra o arquivo index.html no navegador: Via Live Server (VS Code), ou Clique duas vezes no arquivo
+2. Abra o arquivo index.html no navegador:
+   Open with Live Server (VS Code) ou clique duas vezes no arquivo
